@@ -1,6 +1,8 @@
 # blueprint-translations
-https://www.sourcexchange.net/storage/2630/01JQ9DHNJ234Y8Z8T6J3S0G13H.jpg
+![image](https://www.sourcexchange.net/storage/2630/01JQ9DHNJ234Y8Z8T6J3S0G13H.jpg)
 if you not addon download [here](https://www.sourcexchange.net/products/translations)
+
+
 Translation files for the Translations Addon for Pterodactyl Panel (Utilizes Blueprint Framework).
 Initial Release Translations are done using Google Translate and AI, so they may be inaccurate!
 
